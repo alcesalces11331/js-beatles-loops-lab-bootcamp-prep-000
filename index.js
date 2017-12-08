@@ -18,4 +18,5 @@ function iLoveTheBeatles(number) {
   do {
     love.push("I love the Beatles!")
   } while (love.length < 15);
+  return love
 }
