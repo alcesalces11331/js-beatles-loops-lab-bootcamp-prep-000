@@ -18,6 +18,6 @@ function iLoveTheBeatles(number) {
   do {
     love.push("I love the Beatles!")
     number++
-  } while (love.length < 15);
+  } while (number < 15);
   return love
 }
