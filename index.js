@@ -8,8 +8,7 @@ function theBeatlesPlay(arraym, arrayi) {
 function johnLennonFacts(facts) {
   var i = 0
   while (i < facts.length) {
-    facts.toString()
-    
+    facts[i]
     i++
   }return facts
 }
